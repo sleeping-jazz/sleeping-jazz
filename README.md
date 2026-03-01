@@ -2,7 +2,7 @@
 
 ## Who I am
 I'm **Jaswanth**, a Computer Science student passionate about building technology for **women’s safety** and **environmental protection**.  
-I enjoy turning ideas into real, working products — especially under constraints (hackathons 👀).
+I enjoy turning ideas into real, working products.
 
 ## What I build
 - Web applications  
